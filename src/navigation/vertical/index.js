@@ -38,7 +38,7 @@ function processMenu() {
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
+    href: 'https://twitter.com/VitaValeriyaZ',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
@@ -48,7 +48,7 @@ function processMenu() {
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
+    href: 'https://github.com/VitaValeriya',
     icon: 'GithubIcon',
   })
 
