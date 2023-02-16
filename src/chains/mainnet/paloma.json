@@ -7,12 +7,12 @@
     "coin_type": 118,
     "min_tx_fee": 5000,
     "addr_prefix": "paloma",
-    "logo": "/logos/paloma.jpg",
+    "logo": "/logos/Paloma_black.png",
     "assets": [{
         "base": "ugrain",
         "symbol": "grain",
         "exponent": 6,
         "coingecko_id": "",
-        "logo": "/logos/paloma.jpg"
+        "logo": "/logos/Paloma_black.png"
     }]
 }
