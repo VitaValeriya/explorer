@@ -30,8 +30,13 @@ function processMenu() {
       icon: 'ChromeIcon',
     })
   } else {
-  }
     chainMenus.push({
+      title: 'Testnet Explorer',
+      href: 'http://testnet.ping.pub',
+      icon: 'LifeBuoyIcon',
+    })
+  }
+  chainMenus.push({
     title: 'Twitter',
     href: 'https://twitter.com/VitaValeriyaZ',
     icon: 'TwitterIcon',
