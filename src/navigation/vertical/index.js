@@ -30,6 +30,7 @@ function processMenu() {
       icon: 'ChromeIcon',
     })
   } else {
+  }
     chainMenus.push({
     title: 'Twitter',
     href: 'https://twitter.com/VitaValeriyaZ',
