@@ -1,0 +1,18 @@
+{
+    "chain_name": "paloma",
+    "api": "https://api.paloma.ppnv.space",
+    "rpc": "http://rpc.paloma.ppnv.space:21657",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": 118,
+    "min_tx_fee": 5000,
+    "addr_prefix": "paloma",
+    "logo": "/logos/paloma.jpg",
+    "assets": [{
+        "base": "ugrain",
+        "symbol": "grain",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": "/logos/paloma.jpg"
+    }]
+}
