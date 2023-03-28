@@ -1,7 +1,7 @@
 {
     "chain_name": "paloma",
-    "api": "https://api.paloma.ppnv.space",
-    "rpc": "http://rpc.paloma.ppnv.space:21657",
+    "api": "https://paloma.api.kjnodes.com/",
+    "rpc": "https://paloma.rpc.kjnodes.com/",
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
     "coin_type": 118,
