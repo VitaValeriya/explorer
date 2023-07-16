@@ -14,7 +14,7 @@
   "coin_type": "60",
   "min_tx_fee": "3000000000000000",
   "addr_prefix": "haqq",
-  "logo": "/logos/haqq.svg",
+  "logo": "/logos/haqq.png",
   "keplr_features": [
     "ibc-transfer",
     "ibc-go",
@@ -27,7 +27,7 @@
       "symbol": "ISLMT",
       "exponent": "18",
       "coingecko_id": "",
-      "logo": "/logos/islm.svg"
+      "logo": "/logos/haqq.png"
     }
   ]
 }
