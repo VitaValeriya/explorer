@@ -1,7 +1,7 @@
 {
   "chain_name": "composable-testnet",
-  "api": ["https://composable-testnet.api.kjnodes.com"],
-  "rpc": ["https://composable-testnet.rpc.kjnodes.com"],
+  "api": ["https://banksy-testnet-3.nodejumper.io:1317"],
+  "rpc": ["https://banksy-testnet-3.nodejumper.io:443"],
   "coingecko": "",
   "snapshot_provider": "",
   "sdk_version": "0.37.0",
