@@ -4,7 +4,7 @@
   "rpc": ["https://rpc-t.banksy.nodestake.top"],
   "coingecko": "",
   "snapshot_provider": "",
-  "sdk_version": "0.37.0",
+  "sdk_version": "0.47.1",
   "coin_type": "118",
   "min_tx_fee": "500",
   "addr_prefix": "centauri",
