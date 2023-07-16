@@ -1,5 +1,5 @@
 {
-  "chain_name": "centauritestnet",
+  "chain_name": "composable-testnet",
   "api": ["https://composable-testnet-api.polkachu.com/"],
   "rpc": ["https://composable-testnet-rpc.polkachu.com/"],
   "coingecko": "",
