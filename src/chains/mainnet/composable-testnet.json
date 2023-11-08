@@ -1,7 +1,7 @@
 {
   "chain_name": "composable-testnet",
-  "api": ["https://composable-testnet.api.kjnodes.com","https://api-t.banksy.nodestake.top"],
-  "rpc": ["https://composable-testnet.rpc.kjnodes.com","https://rpc-t.banksy.nodestake.top"],
+  "api": ["https://composable.api.t4.stavr.tech","https://composable-testnet.api.kjnodes.com","https://api-t.banksy.nodestake.top"],
+  "rpc": ["https://composable.rpc.t4.stavr.tech","https://composable-testnet.rpc.kjnodes.com","https://rpc-t.banksy.nodestake.top"],
   "coingecko": "",
   "snapshot_provider": "",
   "sdk_version": "0.47.1",
